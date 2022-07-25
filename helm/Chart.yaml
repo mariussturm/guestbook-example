@@ -1,0 +1,7 @@
+apiVersion: v2
+appVersion: 0.1.0
+name: guestbook
+description: Example Applications
+type: application
+version: 0.1.0
+

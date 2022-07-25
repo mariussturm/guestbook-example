@@ -1,0 +1,4 @@
+spec:
+  source:
+    repoURL: https://github.com/mariussturm/guestbook-example
+    targetRevision: HEAD
